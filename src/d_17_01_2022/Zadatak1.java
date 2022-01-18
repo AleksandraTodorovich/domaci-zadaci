@@ -22,7 +22,7 @@ public class Zadatak1 {
 //	kreirati niz od 10tak zelenih kartona za ispite i odstampati podatke za sve ispite
 //
 	public static void main(String[] args) {
-		Scanner s = new Scanner(System.in);
+		Scanner s = new Scanner (System.in);
 		System.out.println("Unesite broj zelenih kartona: ");
 		int n = s.nextInt();
 
